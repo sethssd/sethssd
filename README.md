@@ -38,7 +38,7 @@
 ### Connect with me:
 
 <div align="center">
-  <a href="mailto:fabdev2608@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fabdev2608@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.instagram.com/dfabs__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 

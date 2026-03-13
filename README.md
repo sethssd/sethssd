@@ -29,8 +29,7 @@
 ### GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sethssd&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sethssd&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethssd&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages">
 </div>
 
@@ -39,7 +38,7 @@
 ### Connect with me:
 
 <div align="center">
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/seu-perfil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:fabdev2608@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/dfabs__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
